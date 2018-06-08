@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array",
+				"array_equal\tfunction"
+			],
+			[
+				"grocer",
+				"grocery_list"
+			],
+			[
+				"gr",
+				"grocery_list"
+			],
+			[
+				"datasour",
+				"datasource_name"
+			],
+			[
+				"next",
+				"next_node"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"Depart",
+				"DepartmentId"
+			],
+			[
+				"empl",
+				"Employee"
+			],
+			[
+				"fu",
+				"Functions"
+			],
+			[
+				"ver",
+				"verticalOrder"
+			],
+			[
+				"letter",
+				"letter_combinations"
+			],
+			[
+				"cumul",
+				"cumulative_sum"
+			],
+			[
+				"culu",
+				"cumulative_sum"
+			],
+			[
+				"cumu",
+				"cumulative_sum"
+			],
+			[
+				"max",
+				"maxSubArray"
+			],
+			[
+				"ne",
+				"newData"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git ",
+				"git: branch"
+			],
+			[
+				"git pull",
+				"git: pull"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git pu",
+				"git: pull"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Pretty JSON: Validate"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"Package Control: s",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 474.0
+	},
+	"console":
+	{
+		"height": 374.0,
+		"history":
+		[
+			"sublime.log_commands (True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Saul/Documents/GitHub/flaskapp"
+	],
+	"file_history":
+	[
+		"/Users/Saul/Documents/GitHub/Python-Project/etc/Sync/Sublime/User/python-3-flaskapp.sublime-build",
+		"/Users/Saul/Documents/GitHub/Python-Project/etc/Sync/Sublime/User/python-3 copy.sublime-build",
+		"/Users/Saul/Documents/GitHub/Python-Project/etc/Sync/PythonEnvs/environment.yml",
+		"/Users/Saul/Documents/GitHub/Python-Project/etc/Sync/Python/environment (2.7).yml",
+		"/Users/Saul/Documents/GitHub/Python-Project/etc/Sync/Python/environment.yml",
+		"/Users/Saul/Documents/GitHub/Python-Project/etc/Sync/Python/environment (test).yml",
+		"/Users/Saul/OneDrive - Personal Southern Glazer's Wine & Spirits/OneDrive - Southern Glazer's Wine & Spirits/environment.yml",
+		"/C/Users/Saul.Alvarez/Desktop/datamovementSaulNatasha.txt",
+		"/C/Users/Saul.Alvarez/Documents/GitHub/Python-Project/etc/Sync/Sublime/User/python-2.7.sublime-build",
+		"/C/Users/Saul.Alvarez/Documents/GitHub/Python-Project/etc/Sync/Python/environment.yml",
+		"/C/Users/Saul.Alvarez/Documents/GitHub/Python-Project/etc/Sync/Python/environment (2.7-Mac).yml",
+		"/C/Users/Saul.Alvarez/Documents/GitHub/Python-Project/etc/Sync/Python/environment (2.7-Windows).yml",
+		"/C/Users/Saul.Alvarez/Documents/GitHub/Python-Project/etc/Sync/Python/environment (3.6-Mac).yml",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/whiteboard.py",
+		"/C/Users/Saul.Alvarez/AppData/Roaming/Sublime Text 3/Packages/User/python-2.7.sublime-build",
+		"/C/Users/Saul.Alvarez/Documents/GitHub/Python-Project/etc/Sync/Python/environment (2.7).yml",
+		"/Users/saul/Documents/GitHub/Python-Project/etc/Sync/Sublime/User/python-2.sublime-build",
+		"/Users/saul/Documents/GitHub/Python-Project/etc/Sync/Sublime/User/python-3.sublime-build",
+		"/Volumes/Cloud Storage/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/Python CS.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/scratchpaper.py",
+		"/Volumes/Cloud Storage/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/whiteboard.py",
+		"/Users/Saul/.ssh/known_hosts",
+		"/Users/Saul/Desktop/Youtube Videos/County Library/Wed May 9th/2017-03-sfpl-build-code week 2.py",
+		"/Users/Saul/.ssh/id_rsa",
+		"/private/etc/ssh/sshd_config",
+		"/Users/Saul/.ssh/known_hosts.old",
+		"/private/etc/ssh/ssh_host_ecdsa_key.pub",
+		"/Users/Saul/temp.pub",
+		"/Users/Saul/temp2.pub",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/whiteboard.py",
+		"/Volumes/Cloud Storage/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Python Resources/Library - Floats and Deci.py",
+		"/Volumes/Cloud Storage/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Python Resources/Library - Dicts.py",
+		"/Volumes/Cloud Storage/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/scratchpaper.py",
+		"/Users/saul/Documents/GitHub/Python-Project/etc/Sync/Python/environment.yml",
+		"/Users/saul/Documents/GitHub/Python-Project/My Classes/my_imports.py",
+		"/Users/saul/Documents/GitHub/Python-Project/My Classes/my_pass(template).py",
+		"/Volumes/Cloud Storage/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Python Resources/Library - Strings.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/Python CS.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/Test/My Classes/tableau_rest/tabrestquery.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/python CS.py",
+		"/Volumes/Cloud Storage/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/python CS.py",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sync/Mac-Saul/python-2.7.sublime-build",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sync/PC-Saul.Alvarez/python-2.7.sublime-build",
+		"/C/Users/Saul.Alvarez/Documents/GitHub/Python-Project/etc/Sync/Sublime/PC-Saul.Alvarez/python-2.7.sublime-build",
+		"/C/Users/Saul.Alvarez/Documents/GitHub/Python-Project/etc/Sync/Sublime/PC-salvarez/python-2.7.sublime-build",
+		"/Users/Saul/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/D3304EAC-3670-4F3C-ADB5-BBB71DDAC957/hw7.cp",
+		"/Users/Saul/Desktop/4. SGWS/SQL Queries/scratch.sql",
+		"/Volumes/Cloud Storage/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python.sublime-project",
+		"/Users/Saul/Documents/GitHub/Python-Project/My Classes/__init__.py",
+		"/Users/Saul/Documents/GitHub/Python-Project/My Classes/terminal.py",
+		"/Volumes/Cloud Storage/OneDrive - Personal Southern Glazer's Wine & Spirits/OneDrive - Southern Glazer's Wine & Spirits/Attachments/datasync.py",
+		"/Users/Saul/Desktop/datasync.py",
+		"/Users/Saul/Desktop/python-2.7.sublime-build",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/python CS.py",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/Python Main/scratchpaper.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/SQL Main/scratchpaper.sql",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/SGWS Main/python_scratchpaper.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/SGWS.sublime-project",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python.sublime-project",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/CS Python.sublime-project",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/SQL.sublime-project",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/CS SQL.sublime-project",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python.sublime-workspace",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/SharePoint/Sharepoint Connection.py",
+		"/Users/Saul/Documents/GitHub/Python-Project/etc/Sync/Sublime/User/python-2.7.sublime-build",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/Tableau/Tableau Email Update.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/SQL Queries/scratch.sql",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/SQL Main/SQL CS.sql",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/SQL Queries/National Accounts Query.sql",
+		"/Users/Saul/Library/Application Support/Sublime Text 3/Packages/Python Breakpoints/Default (OSX).sublime-keymap",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/My Classes/sharepoint_connector.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/API/API Datasource Refresh.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/etc/Sublime Projects/SGWS Main/Scratchpaper2.py",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/SQL Queries/Multicultural/demographics MySQL.sql",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/SQL Queries/AOP/depletionstroubleshoot.sql",
+		"/C/Users/Saul.Alvarez/Documents/GitHub/Python-Project/εtc/Sync/Sublime/User/Default (Windows).sublime-keymap",
+		"/C/Users/Saul.Alvarez/Documents/GitHub/Python-Project/εtc/Sync/Sublime/User/python-2.7.sublime-build",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/εtc/Sublime Projects/SGWS Main/Whiteboard.py",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/εtc/Sublime Projects/SGWS Main/Scratchpaper.py",
+		"/Users/saul/Documents/GitHub/Python-Project/εtc/Sync/Python/Anaconda/environment.yml",
+		"/Users/saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/SGWS.sublime-project",
+		"/Users/saul/Documents/GitHub/Python-Project/environment.yml",
+		"/Users/saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/SharePoint/Sharepoint Connection.py",
+		"/Users/saul/Documents/GitHub/Python-Project/εtc/Sync/Python/Anaconda/site-packages/sharepoint_connector.py",
+		"/Users/saul/anaconda2/lib/python2.7/posixpath.py",
+		"/Users/saul/anaconda2/lib/python2.7/os.py",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/SQL Queries/Emily/East Region RTM.sql",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/SQL Queries/Emily/AdHoc Missions.sql",
+		"/C/Users/Saul.Alvarez/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/4. SGWS/SQL Queries/Emily/scratchpaper.sql",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/εtc/Sublime Projects/Python Main/scratchpaper.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/εtc/Sublime Projects/Python Main/whiteboard.py",
+		"/Users/Saul/OneDrive - Southern Glazer's Wine & Spirits/SGWS-Saul/Python Project/εtc/Sublime Projects/Python Main/python CS.py",
+		"/Users/Saul/Documents/GitHub/Python-Project/.gitignore",
+		"/Users/saul/Documents/GitHub/Python-Project/.gitignore",
+		"/Users/saul/Google Drive/Learnings/Python Project/2. Subject notes/Glassdoor/Glassdoor Python/Glassdoor4.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/2. Subject notes/Glassdoor/Glassdoor Python/All Questions some_answered.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/2. Subject notes/6. Linked Lists/Linked List.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/2. Subject notes/3. Binary Trees/binarytree.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Python Main/terminalapp.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/1. Leetcode/1. SaulLeetCode Python/Binary Tree Level Order Traversal.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Python Main/whiteboard.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Python Main/scratchpaper.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/Python Resources/Regex/email.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/Python Resources/Regex/regex snips.txt",
+		"/Users/saul/Google Drive/Learnings/Python Project/2. Subject notes/etc/FlashCards.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/2. Subject notes/etc/big(O) logorithms.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/2. Subject notes/2. Recursion/Recursion.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Python Main/python CS.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/Python Resources/Regex/snippets.txt",
+		"/Users/saul/Google Drive/Learnings/Python Project/1. Leetcode/1. SaulLeetCode Python/Climbing Stairs.py",
+		"/Users/saul/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/project_files/CS Python.sublime-project",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Sublime Sync/User/Python.sublime-settings",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Sublime Sync/User/SQL.sublime-settings",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Sublime Sync/User/Anaconda.sublime-settings",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Sublime Sync/User/Preferences.sublime-settings",
+		"/Users/saul/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/saul/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Python Main/python CS.txt",
+		"/Users/saul/Google Drive/Learnings/Python Project/4. SGWS/Tableau/tabcmd datasource refresh.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/4. SGWS/SharePoint/Sharepoint Connection.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/My Classes/terminal.py",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Sublime Sync/User/python-2.7.sublime-build",
+		"/Users/saul/Google Drive/Learnings/Python Project/Sublime Projects/Sublime Sync/User/c.sublime-build",
+		"/Users/saul/Google Drive/Learnings/Python Project/2. Subject notes/Glassdoor/Glassdoor.sql",
+		"/Users/saul/Google Drive/Learnings/Python Project/2. Subject notes/Glassdoor/Python Keywords.py",
+		"/Users/Saul/Google Drive/Learnings/Python Project/Sublime Projects/project_files/(Mac)SGWS Main.sublime-workspace",
+		"/Users/Saul/Google Drive/Learnings/Python Project/1. Leetcode/2. SaulLeetCode SQL/Rank Scores.sql"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 229.0
+	},
+	"output.SQLTools Result":
+	{
+		"height": 225.0
+	},
+	"output.exec":
+	{
+		"height": 398.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "Packages/User/python-2.sublime-build",
+	"project": "FlaskApp.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"http",
+				"htdocs/wp-includes/http.php"
+			],
+			[
+				"",
+				"AMCharts/linechart.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/GitHub/flaskapp/FlaskApp.sublime-project"
+			]
+		],
+		"width": 753.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
