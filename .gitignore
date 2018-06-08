@@ -1,0 +1,31 @@
+
+# Type in the directory, and/or filetype to ignore
+*.pyc
+*.DS_Store
+*.sublime-workspace
+*.sublime-build
+
+# Ignoring these sublime text files
+# /etc/Sync/Sublime/User/Package Control.last-run
+# /etc/Sync/Sublime/User/Package Control.ca-list
+# /etc/Sync/Sublime/User/Package Control.merged-ca-bundle
+# /etc/Sync/Sublime/User/Package Control.user-ca-bundle
+# /etc/Sync/Sublime/User/Package Control.ca-bundle
+# /etc/Sync/Sublime/User/Package Control.system-ca-bundle
+# /etc/Sync/Sublime/User/Package Control.cache/
+# /etc/Sync/Sublime/User/Package Control.ca-certs/
+# /etc/Sync/Sublime/User/oscrypto-ca-bundle.crt
+# /etc/Sync/Sublime/Installed Packages/0_package_control_loader.sublime-package
+# /etc/Sync/Sublime/User/Preferences.sublime-settings
+# /etc/Sync/Sublime/User/SQLTools.sublime-settings
+# /etc/Sync/Sublime/User/SQLToolsConnections.sublime-settings
+# /etc/Sync/Sublime/User/SQLToolsSavedQueries.sublime-settings
+# /etc/Sync/Sublime/User/GitSavvy/GitSavvy.active-diff-view.py.hidden-tmTheme
+# /etc/Sync/Sublime/User/GitSavvy/GitSavvy.active-diff-view.yml.hidden-tmTheme
+# /etc/Sync/Sublime/User/GitSavvy/GitSavvy.active-diff-view.sublime-settings.hidden-tmTheme
+# /etc/Sync/Python/conda_reload.sh
+# /etc/Sync/Python/conda_reload.bat
+# /My Classes/my_pass.py
+
+
+
