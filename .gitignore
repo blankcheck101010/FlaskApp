@@ -26,3 +26,6 @@
 # /etc/Sync/Python/conda_reload.sh
 # /etc/Sync/Python/conda_reload.bat
 # /My Classes/my_pass.py
+/FlaskApp.sublime-project
+
+/FlaskApp.sublime-workspace
