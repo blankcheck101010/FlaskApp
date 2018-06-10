@@ -4,6 +4,8 @@
 *.DS_Store
 *.sublime-workspace
 *.sublime-build
+/FlaskApp.sublime-project
+/FlaskApp.sublime-workspace
 
 # Ignoring these sublime text files
 # /etc/Sync/Sublime/User/Package Control.last-run
@@ -26,6 +28,3 @@
 # /etc/Sync/Python/conda_reload.sh
 # /etc/Sync/Python/conda_reload.bat
 # /My Classes/my_pass.py
-/FlaskApp.sublime-project
-
-/FlaskApp.sublime-workspace
